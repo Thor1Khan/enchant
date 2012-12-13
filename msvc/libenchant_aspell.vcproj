@@ -62,7 +62,7 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="glib-2.0-vs8.lib aspell-15.lib"
+				AdditionalDependencies="glib-2.0.lib aspell-15.lib"
 				LinkIncremental="2"
 				AdditionalLibraryDirectories="&quot;$(SolutionDir)..\lib\glib\$(ConfigurationName)&quot;;&quot;$(SolutionDir)..\lib\aspell\&quot;"
 				DelayLoadDLLs="aspell-15.dll"
@@ -138,7 +138,7 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="glib-2.0-vs8.lib aspell-15.lib"
+				AdditionalDependencies="glib-2.0.lib aspell-15.lib"
 				LinkIncremental="1"
 				AdditionalLibraryDirectories="&quot;$(SolutionDir)..\lib\glib\$(ConfigurationName)&quot;;&quot;$(SolutionDir)..\lib\aspell\&quot;"
 				DelayLoadDLLs="aspell-15.dll"
