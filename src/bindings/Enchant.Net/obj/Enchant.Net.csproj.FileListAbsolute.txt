@@ -1,6 +1,0 @@
-f:\temporary\enchant\bin\Release\Enchant.Net.dll.config
-f:\temporary\enchant\bin\Release\Enchant.Net.dll
-f:\temporary\enchant\bin\Release\Enchant.Net.pdb
-f:\temporary\enchant\src\bindings\Enchant.Net\obj\Release\ResolveAssemblyReference.cache
-f:\temporary\enchant\src\bindings\Enchant.Net\obj\Release\Enchant.Net.dll
-f:\temporary\enchant\src\bindings\Enchant.Net\obj\Release\Enchant.Net.pdb
